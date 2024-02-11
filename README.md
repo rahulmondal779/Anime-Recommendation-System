@@ -59,6 +59,7 @@ This project aims to provide users with personalized anime recommendations based
 - Adult content (18+) has been filtered out for age-restriction purposes.
 
 **Please Go through the PPT to get a clear view of the project**
+
 Feel free to explore and enjoy your personalized anime recommendations! If you encounter any issues or have suggestions for improvements, please let us know.
 
 Happy watching! 🎉
