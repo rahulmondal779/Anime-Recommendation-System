@@ -9,7 +9,7 @@ This project aims to provide users with personalized anime recommendations based
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the following command:
      ```
-     git clone https://github.com/your-username/Anime-Recommendation-System.git
+     git clone https://github.com/rahulmondal779/Anime-Recommendation-System.git
      ```
 
 2. **Install Dependencies:**
